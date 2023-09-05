@@ -1,15 +1,35 @@
-<h1 align="center">Hi 👋, I'm Steven Marker</h1>
-<h3 align="center">Sparking life</h3>
+# Steven Marker's GitHub Profile
 
-- 💬 Ask me about **anything**
+Welcome to my GitHub profile! I'm Steven Marker, a passionate Electrical Engineering student currently enrolled at Northumbria University. This is where I showcase my projects, share my knowledge, and collaborate with fellow developers and engineers. Feel free to explore my repositories and get in touch if you have any questions or would like to collaborate on a project.
 
-- ⚡ Fun fact **I think I am funny**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/steven_marker_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="steven_marker_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/steven-marker-7459b6272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-marker-7459b6272" height="30" width="40" /></a>
-</p>
+- **Name**: Steven Marker
+- **University**: Northumbria University
+- **Major**: Electrical Engineering
+- **LinkedIn**: [Steven Marker's LinkedIn](https://www.linkedin.com/in/steven-marker-7459b6272/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Skills
+
+Here are some of the skills and technologies I'm proficient in:
+
+- Electrical Circuit Design
+- Digital Signal Processing
+- Embedded Systems
+- IoT Development
+- Python, MATLAB, C++
+- PCB Design (Altium Designer)
+- Control Systems
+- FPGA Programming
+
+## Education
+
+- **Bachelor of Engineering (BEng) in Electrical Engineering**
+  - *Northumbria University*
+  - *Expected Graduation Date: May 2026*
+
+## Contact Me
+
+I'm always open to new opportunities, collaborations, and discussions related to electrical engineering and software development. Feel free to reach out to me via twitter at [Twitter](https://twitter.com/Steven_Marker_) or connect with me on [LinkedIn](https://www.linkedin.com/in/steven-marker-7459b6272/).
+
+Let's innovate and make the world a smarter place together! 🚀✨
