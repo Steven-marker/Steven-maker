@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm Steven Marker, a passionate Electrical Enginee
 - **Name**: Steven Marker
 - **University**: Northumbria University
 - **Major**: Electrical Engineering
-- **LinkedIn**: [Steven Marker's LinkedIn](https://www.linkedin.com/in/steven-marker-7459b6272/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/steven-marker-7459b6272/)
+- **Twitter**: [Twitter](https://twitter.com/Steven_Marker_)
 
 ## Skills
 
@@ -30,6 +31,6 @@ Here are some of the skills and technologies I'm proficient in:
 
 ## Contact Me
 
-I'm always open to new opportunities, collaborations, and discussions related to electrical engineering and software development. Feel free to reach out to me via twitter at [Twitter](https://twitter.com/Steven_Marker_) or connect with me on [LinkedIn](https://www.linkedin.com/in/steven-marker-7459b6272/).
+I'm always open to new opportunities, collaborations, and discussions related to electrical engineering and software development. Feel free to reach out to me via [Twitter](https://twitter.com/Steven_Marker_) or connect with me on [LinkedIn](https://www.linkedin.com/in/steven-marker-7459b6272/).
 
 Let's innovate and make the world a smarter place together! 🚀✨
